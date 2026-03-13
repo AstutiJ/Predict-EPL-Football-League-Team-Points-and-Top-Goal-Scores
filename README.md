@@ -55,7 +55,7 @@ Joblib
 
 Streamlit
 
-📂 Project Structure
+""📂 Project Structure
 AI-ScoreSight-EPL
 │
 ├── Week-1_Data_Understanding
@@ -77,7 +77,7 @@ AI-ScoreSight-EPL
 ├── Screenshots
 │
 └── README.md
-📊 Machine Learning Workflow
+📊 Machine Learning Workflow""
 
 Data Collection
 EPL player performance dataset containing statistics like goals, shots, passes, and appearances.
